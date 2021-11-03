@@ -157,7 +157,7 @@ func (c CountryCode) Type() string {
 //nolint:gocyclo
 func (c CountryCode) String() string { //nolint:gocyclo
 	switch c {
-	case 000000:
+	case 999999:
 		return "Outer Space"
 	case 8:
 		return "Albania"
