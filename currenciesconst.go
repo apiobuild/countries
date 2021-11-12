@@ -355,8 +355,3 @@ const (
 	CurrencyYUD CurrencyCode = 891
 	CurrencyNON CurrencyCode = 998
 )
-
-// NonCountry Currency for special currency symbol
-const (
-	CurrencySTAR CurrencyCode = 999999
-)
